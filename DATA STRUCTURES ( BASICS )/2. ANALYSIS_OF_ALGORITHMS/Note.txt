@@ -1,0 +1,23 @@
+*****
+i. What is meant by Algorithm Analysis?
+
+Algorithm analysis is the process of evaluating an algorithm's efficiency in terms of time and space.
+    ● Time complexity measures how fast the algorithm runs as the input size grows.
+    ● Space complexity measures how much memory the algorithm uses.
+
+*****
+ii. Why Analysis of Algorithms is important?
+
+The analysis of algorithms is important because it helps us:
+    ● Evaluate Efficiency: Understand how fast and memory-efficient an algorithm is.
+    ● Choose the Best Option: Select the right algorithm for a specific problem.
+    ● Handle Scalability: Ensure the algorithm performs well with large inputs.
+    ● Optimize Performance: Improve software speed and resource usage.
+
+*****
+iii. Types of Algorithm Analysis :
+    ● Best case
+    ● Worst case
+    ● Average case
+
+*****Big O Notation, Omega Notation, Theta Notation*****
